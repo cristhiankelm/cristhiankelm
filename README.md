@@ -1,11 +1,11 @@
 
 
-### Olá 👋 meu nome é [Cristhian!](https://github.com/Danushka2/Danushka2/) 
-#### Sou um desenvolvedor web apaixonado por criar soluções inovadoras e intuitivas. Aprendo rápido, apaixonado pelo que faço e sempre procurando novas maneiras de melhorar minhas habilidades e crescer como desenvolvedor. Estou comprometido em entregar projetos de alta qualidade, seguindo as melhores práticas de programação e código limpo. Meu objetivo é criar aplicações web eficientes e escaláveis que proporcionem uma ótima experiência ao usuário. 
+## Olá 👋 meu nome é [Cristhian!](https://github.com/Danushka2/Danushka2/) 
+### Sou desenvolvedor web apaixonado por criar soluções inovadoras e intuitivas. Aprendo rápido, apaixonado pelo que faço e sempre procurando novas maneiras de melhorar minhas habilidades e crescer como desenvolvedor. Estou comprometido em entregar projetos de alta qualidade, seguindo as melhores práticas de programação e código limpo. Meu objetivo é criar aplicações web eficientes e escaláveis que proporcionem uma ótima experiência ao usuário. 
 
 ---
 
-<img align="right" alt="GIF" height="190px" style="margin-top: 130px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" height="190px" style="margin-top: 190px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ## Habilidades
 
