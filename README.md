@@ -57,7 +57,10 @@
 
 Tecnologias utilizadas: Laravel, MySQL, HTML, CSS, JavaScript.</p>
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="42%" align="right" />
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="35%" style="margin-top: 65px" align="right" />
+
+
+
 
 ## Contribuições Open Source
 Durante minha jornada como desenvolvedor web, tenho contribuído ativamente para projetos de código aberto relacionados ao Laravel. Acredito na comunidade e no compartilhamento de conhecimento para impulsionar o crescimento da indústria de desenvolvimento web.
