@@ -5,7 +5,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="190px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" height="190px" style="margin-top: 130px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ## Habilidades
 
@@ -57,7 +57,7 @@
 
 Tecnologias utilizadas: Laravel, MySQL, HTML, CSS, JavaScript.</p>
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="35%" style="margin-top: 65px" align="right" />
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="42%" align="right" />
 
 
 
