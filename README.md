@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" style="margin-top: 120px" alt="GIF" height="190px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" style="margin-top: 210px" alt="GIF" height="225px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ## Habilidades
 
