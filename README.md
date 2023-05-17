@@ -1,8 +1,8 @@
 ### Olá 👋 Sou o [Cristhian!](https://github.com/Danushka2/Danushka2/) Sou um desenvolvedor web apaixonado por criar soluções inovadoras e intuitivas. Com vasta experiência em desenvolvimento com as tecnologias Laravel e MySQL, estou comprometido em entregar projetos de alta qualidade, seguindo as melhores práticas de programação e código limpo. Meu objetivo é criar aplicações web eficientes e escaláveis que proporcionem uma ótima experiência ao usuário. 
 
-<img align="right" style="margin-top: 120px" alt="GIF" height="190px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
 ---
+
+<img align="right" style="margin-top: 120px" alt="GIF" height="190px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ## Habilidades
 
