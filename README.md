@@ -74,7 +74,7 @@ Se você está procurando um desenvolvedor web apaixonado por criar aplicações
 
 Email: criskp007@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/cristhian-kelm-9a447618b/
+LinkedIn: https://www.linkedin.com/in/cristhian-kelm-pellenz-9a447618b/
 
 ---
 
