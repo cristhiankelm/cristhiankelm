@@ -66,7 +66,7 @@ Tecnologias utilizadas: Laravel, MySQL, HTML, CSS, JavaScript.</p>
 Durante minha jornada como desenvolvedor web, tenho contribuído ativamente para projetos de código aberto relacionados ao Laravel. Acredito na comunidade e no compartilhamento de conhecimento para impulsionar o crescimento da indústria de desenvolvimento web.
 
 ## Educação
-Bacharelado em Ciência da Computação na Universidade Privada del Este (UPE) (Ano de Conclusão: 2024)
+Engenharia da Informática na Universidade Privada del Este (UPE) (Ano de Conclusão: 2024)
 
 
 ## Contato
