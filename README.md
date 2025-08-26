@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Cristhian  
-
-Desde criança sempre fui curioso sobre como as coisas funcionam. Eu desmontava meus carrinhos só para entender cada engrenagem, cada conexão, cada detalhe.  
-Na infância, acompanhando meu pai no agro, aprendi uma lição que carrego até hoje: **para cada desafio, existe uma solução**. Essa forma prática de resolver problemas despertou em mim a paixão por aprender continuamente e criar sistemas que realmente fazem a diferença.  
+Desde criança sempre fui curioso sobre como as coisas funcionam. Eu desmontava meus carrinhos só para entender cada engrenagem, cada conexão, cada detalhe.
+Crescendo ao lado do meu pai, sempre buscando **soluções práticas para os desafios do cotidiano**, aprendi que para cada obstáculo existe um caminho possível. Essa mentalidade despertou em mim o gosto por aprender continuamente e construir sistemas que gerem impacto real.  
 
 Com o tempo, encontrei na **informática** o caminho para transformar essa curiosidade em profissão. Comecei explorando hardware e software, evoluí para o **desenvolvimento web** e segui para a graduação em **Engenharia da Informática**. Hoje, estou consolidando essa trajetória com uma **pós-graduação em Segurança Cibernética pela UTFPR**, unindo minha experiência em backend, infraestrutura e segurança para entregar soluções completas.  
 
